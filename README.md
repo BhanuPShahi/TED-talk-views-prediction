@@ -4,9 +4,11 @@ TED is devoted to spreading powerful ideas on just about any topic. These datase
 * Dataset Information
 
 Number of instances: 4,005
+
 Number of attributes: 19
 
 * Features information:
+
 The dataset contains features like:
 'talk_id': Talk identification number provided by TED
 'title': Title of the talk
@@ -28,6 +30,7 @@ The dataset contains features like:
 'transcript': Full transcript of the talk
  
  * Target Variable : 
+ 
  'views': Count of views
 
 The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
