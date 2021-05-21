@@ -31,5 +31,34 @@ The dataset contains features like:
  
  **Target Variable :** 
  * 'views': Count of views
-
+---
 **The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.**
+---
+**For that we have to do some feature engineering as follows:**
+* **Here, we have only 3 numerical columns in our dataset out of which 1 is our target variable and 2 can be used as features and rest all columns are either categorical or they contains textual data.**
+* **So, our main goal here is to find or generate some numerical or categorical features using these columns.**
+
+
+#**Project Work flow**
+---
+
+1. Importing Libraries
+
+3. Loading the dataset
+
+3. Data Cleaning
+
+4. EDA on features
+
+5. Feature selection
+
+6. Fitting the regression models
+
+7. HyperParameter Tuning
+
+8. Evaluation Metrices of the model
+
+9. Final selection of the model
+
+10. Conclusion
+--- 
